@@ -1,0 +1,19 @@
+class
+1.state(constructor)
+2.setState() function
+
+3.componentDidMount()
+only execute once
+
+componentDidUpdate()
+
+
+
+
+
+functional
+1.state(useState)
+2.with useState function3.useEffect()
+  can also be execute once or many times
+3. useEffect()
+
